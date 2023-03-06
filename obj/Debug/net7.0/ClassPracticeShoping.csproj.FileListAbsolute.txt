@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\ConsoleApp1\ClassPracticeShoping\bin\Debug\net7.0\ClassPracticeShoping.exe
+C:\Users\HP\source\repos\ConsoleApp1\ClassPracticeShoping\bin\Debug\net7.0\ClassPracticeShoping.deps.json
+C:\Users\HP\source\repos\ConsoleApp1\ClassPracticeShoping\bin\Debug\net7.0\ClassPracticeShoping.runtimeconfig.json
+C:\Users\HP\source\repos\ConsoleApp1\ClassPracticeShoping\bin\Debug\net7.0\ClassPracticeShoping.dll
+C:\Users\HP\source\repos\ConsoleApp1\ClassPracticeShoping\bin\Debug\net7.0\ClassPracticeShoping.pdb
+C:\Users\HP\source\repos\ConsoleApp1\ClassPracticeShoping\obj\Debug\net7.0\ClassPracticeShoping.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ConsoleApp1\ClassPracticeShoping\obj\Debug\net7.0\ClassPracticeShoping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ConsoleApp1\ClassPracticeShoping\obj\Debug\net7.0\ClassPracticeShoping.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ConsoleApp1\ClassPracticeShoping\obj\Debug\net7.0\ClassPracticeShoping.AssemblyInfo.cs
+C:\Users\HP\source\repos\ConsoleApp1\ClassPracticeShoping\obj\Debug\net7.0\ClassPracticeShoping.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ConsoleApp1\ClassPracticeShoping\obj\Debug\net7.0\ClassPracticeShoping.dll
+C:\Users\HP\source\repos\ConsoleApp1\ClassPracticeShoping\obj\Debug\net7.0\refint\ClassPracticeShoping.dll
+C:\Users\HP\source\repos\ConsoleApp1\ClassPracticeShoping\obj\Debug\net7.0\ClassPracticeShoping.pdb
+C:\Users\HP\source\repos\ConsoleApp1\ClassPracticeShoping\obj\Debug\net7.0\ClassPracticeShoping.genruntimeconfig.cache
+C:\Users\HP\source\repos\ConsoleApp1\ClassPracticeShoping\obj\Debug\net7.0\ref\ClassPracticeShoping.dll
